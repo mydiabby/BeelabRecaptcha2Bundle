@@ -1,5 +1,5 @@
 {
-    "name": "beelab/recaptcha2-bundle",
+    "name": "mydiabby/recaptcha2-bundle",
     "type": "symfony-bundle",
     "description": "Provide Google Recaptch2 form type",
     "keywords": [
